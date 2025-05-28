@@ -6,8 +6,8 @@ A modern fast-food-style ordering kiosk. Built for educational use — ideal for
 
 ## 🖼️ Demo Preview
 
-![Main Menu](Main-Menu.png)  
-![Order Screen](order-screen.png)
+![Main Menu](main-menu.png)  
+![Order Screen](Order-Screen.png)
 
 ---
 
