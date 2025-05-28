@@ -16,6 +16,6 @@ A modern fast-food-style ordering kiosk. Built for educational use — ideal for
 [![Buy on Gumroad](https://img.shields.io/badge/Gumroad-Download-orange?logo=gumroad)](https://asadahsan7.gumroad.com/l/plxvsl)
 
 > ✅ Easy to modify  
-> ✅ Dynamic UI 
+> ✅ Dynamic UI
 > ✅ Educational use only — feel free to submit as your assignment  
 > ❗ Not for commercial restaurant deployment
